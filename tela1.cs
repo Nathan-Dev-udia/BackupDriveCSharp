@@ -30,7 +30,7 @@ namespace backup
 
         private async void guna2Button1_Click(object sender, EventArgs e)
         {
-            string credenciaisPath = Path.Combine(Application.StartupPath, "client_secret_276549656547-553g6v2k2d661e2qfhod7fahtr5j9epf.apps.googleusercontent.com.json"); // Caminho do arquivo de credenciais /////////////////////////////////////////////////////////////////////
+            string credenciaisPath = Path.Combine(Application.StartupPath, "SEU_ARQUIVO_JSON"); // Caminho do arquivo de credenciais /////////////////////////////////////////////////////////////////////
 
             if (!SystemFile.Exists(credenciaisPath)) // Usando SystemFile alias
             {
@@ -38,7 +38,7 @@ namespace backup
                 return;
             }
 
-            string pastaRaizId = "1vy9OmI6qJBseL3ZkH_1RBlxE_8V7g-lm"; // ID da pasta principal no Google Drive /////////////////////////////////////////////////////////////////////
+            string pastaRaizId = "CAMINHO ID DA PASTA"; // ID da pasta principal no Google Drive /////////////////////////////////////////////////////////////////////
 
             try
             {
