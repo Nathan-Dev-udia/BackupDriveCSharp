@@ -70,6 +70,7 @@
             this.guna2Button2.Size = new System.Drawing.Size(105, 45);
             this.guna2Button2.TabIndex = 2;
             this.guna2Button2.Text = "Não";
+            this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
             // tela1
             // 
@@ -80,6 +81,7 @@
             this.Controls.Add(this.guna2Button1);
             this.Controls.Add(this.guna2HtmlLabel1);
             this.Name = "tela1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "tela1";
             this.ResumeLayout(false);
             this.PerformLayout();

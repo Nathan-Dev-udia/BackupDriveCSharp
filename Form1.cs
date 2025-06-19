@@ -16,7 +16,11 @@ namespace backup
         {
             InitializeComponent();
         }
-
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            base.OnFormClosing(e);
+            Application.Exit(); // Fecha todo o programa ao fechar a tela
+        }
         private void txt_user_TextChanged(object sender, EventArgs e)
         {
 
