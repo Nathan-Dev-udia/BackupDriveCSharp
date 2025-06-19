@@ -57,7 +57,7 @@ Buscando mais desempenho, facilidade de uso e melhor integração, reescrevi a a
 
 - Autenticação simplificada;
 - Compactação automática em ZIP;
-- Upload mais rápido e confiável;
+- Conclusão do upload em segundos);
 - Interface moderna com **Guna UI2**.
 
 Se quiser conferir a primeira idealização em Python, ele está disponível [aqui](https://github.com/Nathan-Dev-udia/TkBackupDrive)
