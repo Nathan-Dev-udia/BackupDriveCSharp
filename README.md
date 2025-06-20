@@ -31,6 +31,7 @@ Com autenticação via API oficial do Google, o sistema cria uma pasta com data 
 - **Google.Apis.Auth.OAuth2**
 - **System.IO.Compression**
 - **Guna UI2**
+- **Inno Setup** (para criar o instalador do programa).
 
 ---
 
@@ -53,7 +54,7 @@ Embora o TkBackupDrive tenha sido funcional como prova de conceito, ele apresent
 
 - Interface Tkinter pouco prática para empacotamento e distribuição;
 - Lentidão no backup (4 a 5 horas para ~250MB);
-- Dificuldades com dependências da Google API em ambientes diferentes.
+- Necessidade de instalar o Python, VS Code e todas as dependências em cada máquina onde o programa fosse rodar;
 
 Buscando mais desempenho, facilidade de uso e melhor integração, reescrevi a aplicação em **C# (Windows Forms)**, mantendo toda a lógica de backup e upload para o Google Drive, agora com:
 
@@ -61,6 +62,7 @@ Buscando mais desempenho, facilidade de uso e melhor integração, reescrevi a a
 - Compactação automática em ZIP;
 - Conclusão do upload em segundos);
 - Interface moderna com **Guna UI2**.
+- Distribuição facilitada: basta instalar e usar, sem necessidade de configurar dependências ou ambientes manualmente.
 
 Se quiser conferir a primeira idealização em Python, ele está disponível [aqui](https://github.com/Nathan-Dev-udia/TkBackupDrive)
 
