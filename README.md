@@ -60,7 +60,7 @@ Buscando mais desempenho, facilidade de uso e melhor integração, reescrevi a a
 
 - Autenticação simplificada;
 - Compactação automática em ZIP;
-- Conclusão do upload em segundos);
+- Conclusão do upload em segundos;
 - Interface moderna com **Guna UI2**.
 - Distribuição facilitada: basta instalar e usar, sem necessidade de configurar dependências ou ambientes manualmente.
 
