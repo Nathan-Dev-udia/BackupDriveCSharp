@@ -64,8 +64,6 @@ Buscando mais desempenho, facilidade de uso e melhor integração, reescrevi a a
 - Interface moderna com **Guna UI2**.
 - Distribuição facilitada: basta instalar e usar, sem necessidade de configurar dependências ou ambientes manualmente.
 
-Se quiser conferir a primeira idealização em Python, ele está disponível [aqui](https://github.com/Nathan-Dev-udia/TkBackupDrive)
-
 ---
 
 ## 📌 Estado atual
