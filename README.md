@@ -47,7 +47,7 @@ Com autenticação via API oficial do Google, o sistema cria uma pasta com data 
 
 ## 🚀 Evolução do Projeto
 
-Este projeto em **C#** é uma evolução do meu projeto anterior chamado **TkBackupDrive**, que foi desenvolvido em **Python** usando Tkinter para interface gráfica.
+Este projeto em **C#** é uma evolução do meu projeto anterior chamado [**TkBackupDrive**](https://github.com/Nathan-Dev-udia/TkBackupDrive), que foi desenvolvido em **Python** usando Tkinter para interface gráfica.
 
 Embora o TkBackupDrive tenha sido funcional como prova de conceito, ele apresentava limitações como:
 
