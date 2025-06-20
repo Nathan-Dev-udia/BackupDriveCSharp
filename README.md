@@ -71,3 +71,5 @@ O projeto está funcional, com backup completo e upload seguro para o Google Dri
 
 - Agendamento automático de backups;
 - Histórico de backups realizados.
+
+> Projeto criado por Nathan Fernandes Alves para automatizar backups locais, compactação e o envio de pastas diretamente ao Google Drive.
