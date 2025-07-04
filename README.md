@@ -1,4 +1,7 @@
 # ☁️ Backup Google Drive
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D7?style=flat&logo=windows&logoColor=white)
+![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat&logo=google-drive&logoColor=white)
 
 **Backup Google Drive** é uma aplicação desktop feita em **C# (Windows Forms)** que realiza o **envio automático de uma pasta local para o Google Drive**, com apenas um clique.
 Ideal para quem precisa fazer backups frequentes de forma **prática, rápida e sem complicações** — sem necessidade de configurar compartilhamentos manuais ou sincronizações do Drive.
